@@ -1,0 +1,18 @@
+{
+  "load-data-into-mongodb": {
+    "json-to-mongodb": [
+      {
+        "success": true,
+        "feedback": "Great work! Your `load_to_mongodb` function works as expected."
+      }
+    ]
+  },
+  "query-data-in-mongodb": {
+    "mongodb-to-json": [
+      {
+        "success": true,
+        "feedback": "Great work! Your `retrieve_obscure_books` function works as expected."
+      }
+    ]
+  }
+}
